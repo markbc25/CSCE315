@@ -1,4 +1,4 @@
-# CSCE315
+# Programming Studio
 A collection of all assignments from TAMU CSCE 315 Spring 2022.
 
 This is a running list as I am currently enrolled in the class.
